@@ -5,5 +5,6 @@ Pesquisa usando SAPUI5 (simples)
 ## Instalação
 
 Fazer clone do Repo.
-npm i
-npm start
+`npm i`
+
+`npm start`
